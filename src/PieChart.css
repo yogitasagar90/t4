@@ -1,0 +1,48 @@
+.container{
+    margin: 0 auto;
+    padding: 50px 100px 50px; 
+}
+.form{
+ display: flex;
+ justify-content: space-between;
+ align-items: center;
+ margin-bottom: 100px;
+}
+.ba{
+    font-size: 20px;
+    font-style: italic;
+    margin-left: 100px;
+    margin-right: 10px;
+    
+}
+.bb{
+    font-size: 20px;
+    font-style: italic;
+    margin-right: 10px;
+}
+.baa:hover{
+    font-size: 15px;
+    padding: 3px 20px;
+    width: 70px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 5px blue;
+}
+.bba:hover{
+    font-size: 15px;
+    padding: 3px 20px;
+    width: 70px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 5px blue;
+}
+button{
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 400;
+    padding: 6px 25px;
+    color: black;
+    box-shadow: 2px 2px 0 black;
+    border-radius: 5px;
+}
+button:hover{
+    box-shadow: 1px 1px 5px blue;
+}
